@@ -1,4 +1,4 @@
-# Rep1
+# Repositorio Desarrollo de interfaces 2º DAM
 
 Entregable 1: Análisis heurístico de diferentes webs
 ----------------------------------------------------
